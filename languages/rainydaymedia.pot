@@ -1,0 +1,61 @@
+# Copyright (C) 2019 RDM WooCommerce Copy Coupon
+# This file is distributed under the same license as the RDM WooCommerce Copy Coupon package.
+msgid ""
+msgstr ""
+"Project-Id-Version: RDM WooCommerce Copy Coupon 1.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/free\n"
+"POT-Creation-Date: 2019-11-06 15:47:24+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2019-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: rdm-woocommerce-copy-coupon.php:64
+msgid "Make a copy of this Coupon"
+msgstr ""
+
+#: rdm-woocommerce-copy-coupon.php:64
+msgid "Copy"
+msgstr ""
+
+#: rdm-woocommerce-copy-coupon.php:74
+msgid "Not authorized!"
+msgstr ""
+
+#: rdm-woocommerce-copy-coupon.php:78
+msgid "No Coupon to copy has been supplied!"
+msgstr ""
+
+#: rdm-woocommerce-copy-coupon.php:97
+msgid "Coupon creation failed, could not find original Coupon:"
+msgstr ""
+
+#: rdm-woocommerce-copy-coupon.php:119
+msgid "Duplicate Coupon"
+msgstr ""
+
+#: woocommerce-duplicate-coupon.php:134
+msgid "(Copy)"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Duplicate Coupon"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/RainyDayMedia/WooCommerce-Duplicate-Coupons"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Adds a duplicate button to coupons for WooCommerce."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rainy Day Media LLC"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/RainyDayMedia"
+msgstr ""
